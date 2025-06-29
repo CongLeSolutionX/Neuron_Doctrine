@@ -11,7 +11,7 @@ import SwiftUI
 struct Neuron_DoctrineApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NeuronDoctrineView()
         }
     }
 }
